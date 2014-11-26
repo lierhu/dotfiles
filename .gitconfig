@@ -1,0 +1,14 @@
+[user]
+	name = lierhu
+	email = lierhu@github.com
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+	last = log -1 HEAD
+[core]
+	editor = vim
+	autocrlf = input
+[color]
+	ui = true
