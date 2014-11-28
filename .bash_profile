@@ -3,7 +3,7 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 source ~/.git-completion.sh
 export PS1='\u@\h:\w$ '
 export PATH=~/bin:$PATH
-export PATH=~/android/android-sdk/sdk/platform-tools:$PATH
+export PATH=~/android/android-sdk/platform-tools:$PATH
 export PATH=/usr/local/bin:$PATH
 export BUILD_MAC_SDK_EXPERIMENTAL=1
 #export LC_CTYPE=C 
